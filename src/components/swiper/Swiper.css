@@ -1,0 +1,51 @@
+.main-slider {
+  max-width: 1350px;
+  margin: 50px auto;
+  background-color: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  position: relative;
+}
+
+.slider-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.slider-card img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+
+.slider-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.slider-title {
+  font-size: 22px;
+  color: #111;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.slider-text {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.main-slider .swiper-button-next,
+.main-slider .swiper-button-prev {
+  color: #0056b3;
+  transform: scale(0.7);
+}
+
+.main-slider .swiper-pagination-bullet-active {
+  background: #0056b3;
+}
