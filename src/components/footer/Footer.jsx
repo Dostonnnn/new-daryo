@@ -42,7 +42,7 @@ function Footer() {
             © «Simple Networking Solutions» MChJ, 2013–2026
           </div>
           <div className="footer-developer">
-            Ishlab chiquvchi: <a href="#">Online Service Group</a>
+            Ishlab chiquvchi:Online Service Group
           </div>
         </div>
       </div>
