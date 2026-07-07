@@ -377,31 +377,31 @@ function Main() {
         </div>
         <h3 className="aside-title">Reklama</h3>
         <div className="aside-ad">
-          <a href="https://example.com" target="_blank" rel="noreferrer">
+          <a href="https://example.com" target="blank">
             <img src="https://picsum.photos/300/250" alt="Reklama" />
             <span className="ad-label">Reklama</span>
           </a>
         </div>
         <div className="aside-ad">
-          <a href="https://example.com" target="_blank" rel="noreferrer">
+          <a href="https://example.com" target="blank">
             <img src="https://picsum.photos/300/250" alt="Reklama" />
             <span className="ad-label">Reklama</span>
           </a>
         </div>
         <div className="aside-ad">
-          <a href="https://example.com" target="_blank" rel="noreferrer">
+          <a href="https://example.com" target="blank">
             <img src="https://picsum.photos/300/250" alt="Reklama" />
             <span className="ad-label">Reklama</span>
           </a>
         </div>
         <div className="aside-ad">
-          <a href="https://example.com" target="_blank" rel="noreferrer">
+          <a href="https://example.com" target="blank">
             <img src="https://picsum.photos/300/250" alt="Reklama" />
             <span className="ad-label">Reklama</span>
           </a>
         </div>
         <div className="aside-ad">
-          <a href="https://example.com" target="_blank" rel="noreferrer">
+          <a href="https://example.com" target="blank">
             <img src="https://picsum.photos/300/250" alt="Reklama" />
             <span className="ad-label">Reklama</span>
           </a>
