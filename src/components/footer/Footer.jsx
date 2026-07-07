@@ -21,7 +21,6 @@ function Footer() {
           <div className="footer-meta">
             <div className="footer-error">
               <span>Xato topdingizmi?</span>
-              <kbd>Ctrl+Enter</kbd>’ni bosing
             </div>
             <div className="footer-age">
               <span className="age-badge">18+</span>
